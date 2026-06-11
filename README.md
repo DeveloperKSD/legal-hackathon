@@ -32,8 +32,8 @@
 
 ```
 Frontend        React + Tailwind CSS
-AI              Google Gemini 1.5 Flash API
-Document Gen    HTML templates → Browser Print to PDF
+AI              Google Gemini 2.5 Flash API
+Document Gen    using python libraries like pythondocx
 Storage         Browser localStorage (no user data on server)
 Container       Docker + docker-compose
 Hosting         TBD
