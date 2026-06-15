@@ -1,4 +1,4 @@
-# ⚖️ LexAI — Legal Document Assistant
+# ⚖️ Themis — Legal Document Assistant
 
 > AI-powered legal assistant that helps everyday users create documents, understand legal terms, and find affordable legal help.
 
